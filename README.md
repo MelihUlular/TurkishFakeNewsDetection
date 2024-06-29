@@ -1,6 +1,10 @@
 ### Fake News Detection 
 
-This study focuses on the problem of detecting Turkish fake news.
+
+###Video
+
+https://github.com/MelihUlular/TurkishFakeNewsDetection/assets/92888821/0dab5cda-5a66-4698-9310-11dfb229e9ee
+
 
 
 ## Folders 
