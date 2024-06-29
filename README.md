@@ -1,7 +1,7 @@
-### Fake News Detection 
+## Turkish Fake News Detection 
 
 
-###Video
+ A fake news detector to check the accuracy of Turkish news text.
 
 https://github.com/MelihUlular/TurkishFakeNewsDetection/assets/92888821/0dab5cda-5a66-4698-9310-11dfb229e9ee
 
@@ -13,7 +13,7 @@ https://github.com/MelihUlular/TurkishFakeNewsDetection/assets/92888821/0dab5cda
 
 2) Dataset Preprocess : This file contains the code file containing the data cleaning steps. The news.csv file in the Input Data folder has turned into clean_news.csv file in the Output Data folder. Transformers models, Bow, Bow+TF-IDF, FastTEXT and Word2vec models applied in this study were created with the cleaned data (clean_news.csv).
 
-3) Translated Dataset Using Google Trans API - CMPE 491 FALL : This file contains the translation dataset prepared for CMPE 491. In this study, the Google Trans API library was used. According to the model training results obtained, the translation dataset was extracted from the final version of the project called Fake News Detection. However, the relevant code and datasets are in this file.
+3) Translated Dataset Using Google Trans API : In this study, the Google Trans API library was used. According to the model training results obtained, the translation dataset was extracted from the final version of the project called Fake News Detection. However, the relevant code and datasets are in this file.
 
 4) Transformers : This file contains the relevant codes of 4 transformer models trained for this study. Clean_news.csv is used as dataset. There are 4 models trained in the Transformers file with .ipyn and .py extensions.
 
